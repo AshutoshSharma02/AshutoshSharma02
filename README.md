@@ -23,7 +23,7 @@ A passionate *Computer Science undergrad* and aspiring *Software Engineer*, driv
 ### 📂 [YC Directory](https://github.com/AshutoshSharma02/yc-directory)  
 🔹 Responsive platform built with *React.js, Node.js, MongoDB, HTML, CSS, JavaScript*  
 🔹 Supports *150+ concurrent users* with *99.5% uptime*  
-🔹 Implemented database architecture to handle *5,000+ booking records* and *200+ parking slots*  
+ 
 
 ### 🚗 [Smart Parking](https://github.com/AshutoshSharma02/Smart-Parking)  
 🔹 Real-time parking management system for *200+ parking slots*  

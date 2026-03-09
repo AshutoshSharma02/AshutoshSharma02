@@ -23,14 +23,19 @@ A passionate *Computer Science undergrad* and aspiring *Software Engineer*, driv
 ### 📂 [Quick AI](https://github.com/AshutoshSharma02/Quick-AI)  
 
 🔹 Built a full-stack AI SaaS platform providing multiple tools for automated content generation.
+
 🔹 Developed a responsive frontend using Next.js and Tailwind CSS for optimized cross-device performance.
+
 🔹 Integrated AI APIs for real-time text generation and intelligent automation features.
+
 🔹 Deployed on Vercel with scalable architecture and optimized API routing.
 
  ### 📂 [Hybrid-Song-Recommendation-System](https://github.com/AshutoshSharma02/Hybrid-Song-Recommendation-System)  
  
 🔹 Built a hybrid recommendation system using collaborative and content-based filtering.
+
 🔹 Processed 50K+ songs and 9.7M+ user interactions for personalized recommendations.
+
 🔹 Developed a Streamlit web app for real-time song recommendations with audio previews.
 
 
